@@ -1,5 +1,5 @@
 git status
-git add 
-git commit -m "
+git add . - добавка в stage
+git commit -m ""
 git log --oneline
-5
+git push 
